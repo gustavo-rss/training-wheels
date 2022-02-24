@@ -1,0 +1,21 @@
+{
+  "name": "training-wheels",
+  "version": "1.0.0",
+  "description": "Project to manipulate web elements using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "training-wheels",
+    "qaninja"
+  ],
+  "author": "Gustavo Ramos",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.0",
+    "cypress-real-events": "^1.7.0"
+  }
+}
